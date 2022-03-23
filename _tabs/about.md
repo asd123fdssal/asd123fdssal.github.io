@@ -18,7 +18,7 @@ github : https://github.com/asd123fdssal
 - 구미전자공업 고등학교 졸업 (2016.03 ~ 2019.02)
 
 ## 보유 기술 / 경험
-<img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=007396"/> <img src="https://img.shields.io/badge/delphi-white?style=flat&logo=delphi&logoColor=EE1F35"/> <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=007396"/> <img src="https://img.shields.io/badge/delphi-white?style=flat&logo=delphi&logoColor=EE1F35"/> <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/> 
 
 - Java Swing 
   * 로컬 DB 연동한 ERP 응용 SW 개발
@@ -48,14 +48,14 @@ github : https://github.com/asd123fdssal
 
 
 ### IDE
-<img src="https://img.shields.io/badge/Intellij IDEA-white?style=flat&logo=Intellij IDEA&logoColor=000000"/> <img src="https://img.shields.io/badge/Eclipse-white?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
+<img src="https://img.shields.io/badge/Intellij IDEA-white?style=flat&logo=Intellij IDEA&logoColor=000000"/> <img src="https://img.shields.io/badge/Eclipse-white?style=flat&logo=Eclipse IDE&logoColor=2C2255"/> 
 
 
 ## 개발 환경
 <img src="https://img.shields.io/badge/Mac OS-white?style=flat&logo=Mac OS&logoColor=000000"/> 
 
-<img src="https://img.shields.io/badge/Windows-white?style=flat&logo=Windows&logoColor=0078D6"/> <img src="https://img.shields.io/badge/AMD-white?style=flat&logo=AMD&logoColor=ED1C24"/> <img src="https://img.shields.io/badge/Nvidia-white?style=flat&logo=Nvidia&logoColor=76B900"/>
+<img src="https://img.shields.io/badge/Windows-white?style=flat&logo=Windows&logoColor=0078D6"/> <img src="https://img.shields.io/badge/AMD-white?style=flat&logo=AMD&logoColor=ED1C24"/> <img src="https://img.shields.io/badge/Nvidia-white?style=flat&logo=Nvidia&logoColor=76B900"/> 
 
 
 ## 공부중
-<img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-white?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Security-white?style=flat&logo=Spring Security&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/thyemeleaf-white?style=flat&logo=thymeleaf&logoColor=005F0F"/> <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Oracle DB-white?style=flat&logo=Oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-white?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Security-white?style=flat&logo=Spring Security&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/thyemeleaf-white?style=flat&logo=thymeleaf&logoColor=005F0F"/> <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Oracle DB-white?style=flat&logo=Oracle&logoColor=F80000"/> 
