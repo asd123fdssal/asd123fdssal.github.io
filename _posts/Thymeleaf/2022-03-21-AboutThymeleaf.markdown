@@ -13,7 +13,7 @@ tags : [Thymeleaf]
 # Dependency 추가
 
 
-```ava
+```java
 implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
 ```
 
