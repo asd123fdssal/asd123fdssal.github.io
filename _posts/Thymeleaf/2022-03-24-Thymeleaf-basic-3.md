@@ -1,9 +1,9 @@
 ---
 layout : post
-category : [Thyemelaf]
+category : [Thymeleaf]
 title : Thymeleaf의 객체 변수 방식
-tagline : "Thyemelaf"
-tags : [Thyemelaf]
+tagline : "Thymeleaf"
+tags : [Thymeleaf]
 ---
 
 ## 객체 변수 방식
