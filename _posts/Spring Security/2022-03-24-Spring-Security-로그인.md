@@ -1,6 +1,6 @@
 ---
 layout : post
-category : [Spring Security,Thymeleaf]
+category : [Spring Security]
 title : Spring Security 로그인 UI 구현
 tagline : "Spring Security"
 tags : [Spring Security,Thymeleaf]
